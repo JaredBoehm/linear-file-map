@@ -1,0 +1,11 @@
+{
+  "name": "linear-file-map",
+  "version": "0.0.1",
+  "description": "Simple function to map a flat directory with Node fs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jared Boehm",
+  "license": "MIT"
+}
